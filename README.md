@@ -177,7 +177,7 @@ La transición desde el diagrama de casos de uso hasta el diagrama de implementa
 
 La incorporación de la base de datos y el sistema de audio como nodos independientes en el diagrama de implementación refleja una visión más realista del sistema desplegado, donde cada componente cumple una responsabilidad específica y se comunica mediante protocolos definidos.
 
-En términos de aprendizaje, este trabajo consolidó la comprensión de que el diseño orientado a objetos no consiste en crear clases arbitrariamente, sino en identificar responsabilidades, delimitar dependencias y construir arquitecturas comprensibles, mantenibles y adaptables al cambio.
+En términos de aprendizaje este trabajo consolidó la comprensión de que el diseño orientado a objetos no consiste en crear clases arbitrariamente, sino en identificar responsabilidades, delimitar dependencias y construir arquitecturas comprensibles, mantenibles y adaptables al cambio.
 
 ---
 
