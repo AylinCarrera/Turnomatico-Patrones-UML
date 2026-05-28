@@ -12,17 +12,17 @@ Este proyecto corresponde a un sistema turnomático que es una solución de gest
 El sistema permite que los clientes soliciten turnos mediante un tótem de autoservicio, ingresando su RUT y seleccionando el tipo de atención requerido. Posteriormente, el sistema genera un ticket con el número de atención y gestiona el llamado de turnos mediante pantallas y sistema de audio.
 
 **Objetivos del sistema:**
-permitir atención preferencial y normal.
-Administrar módulos de atención.
-Mostrar turnos en pantallas.
-Anunciar turnos mediante sistema de audio.
-Generar estadísticas básicas de atención.
+- Permitir atención preferencial y normal.
+- Administrar módulos de atención.
+- Mostrar turnos en pantallas.
+- Anunciar turnos mediante sistema de audio.
+- Generar estadísticas básicas de atención.
 
 El sistema contempla tres actores principales:
 
-**Cliente** : Interactúa con el tótem de autoservicio para solicitar su turno 
-**Operador** : Gestiona la atención desde su módulo de ventanilla 
-**Administrador** : Supervisa el sistema, configura tipos de atención y accede a reportes 
+- **Cliente** : Interactúa con el tótem de autoservicio para solicitar su turno 
+- **Operador** : Gestiona la atención desde su módulo de ventanilla 
+- **Administrador** : Supervisa el sistema, configura tipos de atención y accede a reportes 
 
 ## Diagrama de casos de uso
 
