@@ -171,7 +171,7 @@ Se activa cuando el cliente llega a un módulo que no corresponde al tipo de ate
 
 ## Reflexiones Finales
 
-El modelado arquitectónico del Sistema turnomático permitió comprender de manera práctica la importancia de aplicar patrones de diseño como respuesta a problemas concretos, y no como recursos decorativos del diagrama.
+El modelado arquitectónico del sistema turnomático permitió comprender de manera práctica la importancia de aplicar patrones de diseño como respuesta a problemas concretos, y no como recursos decorativos del diagrama.
 
 La transición desde el diagrama de casos de uso hasta el diagrama de implementación evidenció cómo cada decisión funcional tiene una repercusión directa en la estructura del software y en su distribución física. La identificación de actores y relaciones en la fase inicial condicionó el diseño de las clases, y estas a su vez determinaron la arquitectura de los nodos físicos.
 
